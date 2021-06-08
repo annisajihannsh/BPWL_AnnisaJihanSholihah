@@ -23,7 +23,7 @@
     <body>
         <div class="jumbotron jumbotron-fluid " color=pink-100>
             <div class="container text-center">
-                <img src="fo.jpg" width="200">
+                <img src="outfit.jpg" width="200">
                 <h1 class="display-4">LIST PRODUCT</h1>
                 <p class="lead">Product In Your Clothes Store</p>
             </div>
